@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./banner1.png" width="100%" />
-</p>
-<h3 align="center">Data Analyst | Profitability & Margin Analytics</h3>
-
+![Banner](./banner.png)
 # Hi, I'm Shantu Sharma👋
 
 Data Analyst | India  
