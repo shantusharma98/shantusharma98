@@ -1,4 +1,7 @@
-![Banner](./banner1.png)
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+<h3 align="center">Data Analyst | Profitability & Margin Analytics</h3>
 
 # Hi, I'm Shantu Sharma👋
 
