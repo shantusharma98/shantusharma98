@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./banner1.png" width="100%" />
 </p>
 <h3 align="center">Data Analyst | Profitability & Margin Analytics</h3>
 
