@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner2.png)
 # Hi, I'm Shantu Sharma👋
 
 Data Analyst | India  
