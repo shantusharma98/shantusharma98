@@ -30,7 +30,7 @@ Preference for clarity over complexity — analysis should lead to action.
 - SQL
 - Power BI
 - Excel
-- Streamlit
+- Tableau
 
 **Core Competencies**
 - Profit & Margin Analysis
