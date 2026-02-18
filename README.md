@@ -1,3 +1,5 @@
+![Banner](./banner1.png)
+
 # Hi, I'm Shantu Sharma👋
 
 Data Analyst | India  
